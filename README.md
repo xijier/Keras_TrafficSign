@@ -1,0 +1,1 @@
+This is a test sample using Keras predict and training traffic-sign.
